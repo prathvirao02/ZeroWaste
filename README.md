@@ -4,8 +4,8 @@ A Food Waste Reduction Initiative
 
 # Project Description
 
-## **This Project was created during HackToFuture, 24 hour Hackathon organised by EG India held at SJEC, Mangalore**
-## **Team: RUNTIME TERRORS ; Team Members: Aaron, Arathi, Prathvi**
+### **This Project was created during HackToFuture, 24 hour Hackathon organised by EG India held at SJEC, Mangalore**
+### **Team: RUNTIME TERRORS ; Team Members: Aaron, Arathi, Prathvi**
 
 ## **Problem Statement:**  
 Food waste and hunger are significant issues affecting many communities worldwide. A substantial amount of food is wasted by individuals, restaurants, supermarkets, and other organizations, while many people struggle to access healthy and nutritious food.
