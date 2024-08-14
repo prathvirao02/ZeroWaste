@@ -51,7 +51,7 @@ The network can also partner with local schools and universities to educate stud
 
 ## **Installation Steps:**  
 1. **Clone the project repository.**
-2. **Run the project** in a Live Server. 
+2. **Run the project** in a Live Server: http://localhost/foodwaste_reduction/
 3. Ensure that you install the necessary node packages and dependencies required for Firebase Database by running the following command in the terminal:
    ```bash
    npm install
