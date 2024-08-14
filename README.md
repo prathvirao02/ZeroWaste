@@ -1,6 +1,7 @@
 # ZeroWaste
 ### A Food Waste Reduction Initiative
 
+
 # Project Description
 
 ## **This Project was created during HackToFuture, 24 hour Hackathon organised by EG India held at SJEC, Mangalore**
