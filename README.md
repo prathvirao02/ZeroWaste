@@ -1,5 +1,5 @@
 # ZeroWaste
-## A Food Waste Reduction Initiative
+A Food Waste Reduction Initiative
 
 
 # Project Description
